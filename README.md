@@ -1,0 +1,2 @@
+# totalme
+Calculates a summary of the total effects of an independent variable on an ordinal or nominal outcome Use totalme With STATA 19
