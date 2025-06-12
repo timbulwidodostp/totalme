@@ -3,6 +3,8 @@ Calculates a summary of the total effects of an independent variable on an ordin
 
 Calculating holistic effect size measures for nominal and ordinal outcome models Use totalme With STATA 19
 
+https://www.youtube.com/watch?v=L32FigwrZVw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
